@@ -1,7 +1,6 @@
 # Model weights (too large for git)
+best_model.pth
 *.pth
-*.pt
-
 
 
 # Python cache
